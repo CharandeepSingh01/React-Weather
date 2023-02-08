@@ -5,9 +5,9 @@ function NavBar(){
         <nav className={classes.nav}>
             <div>
                 <h1>Weather App</h1>
-            </div>
-            <div className={classes.nav}>
-                <img src="wea.png" alt="weather icon" />
+            
+                <img src="https://icons8.com/icon/iz13IdTXrqLN/weather.jpg" alt=""/>
+                
             </div>
             
         </nav>
