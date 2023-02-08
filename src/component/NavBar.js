@@ -4,9 +4,8 @@ function NavBar(){
     return(
         <nav className={classes.nav}>
             <div>
-                <h1>Weather App</h1>
             
-                <img src="https://icons8.com/icon/iz13IdTXrqLN/weather.jpg" alt=""/>
+                <img className={classes.img} src="https://cdn4.iconfinder.com/data/icons/weatherful/72/Cloudy_Sunny-512.png" alt=""/>
                 
             </div>
             
