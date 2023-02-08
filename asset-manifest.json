@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Capstone-Project/static/css/main.1a598091.chunk.css",
+    "main.css": "/Capstone-Project/static/css/main.9a78209d.chunk.css",
     "main.js": "/Capstone-Project/static/js/main.550ff12f.chunk.js",
     "main.js.map": "/Capstone-Project/static/js/main.550ff12f.chunk.js.map",
     "runtime-main.js": "/Capstone-Project/static/js/runtime-main.62203676.js",
@@ -8,14 +8,14 @@
     "static/js/2.2f28b245.chunk.js": "/Capstone-Project/static/js/2.2f28b245.chunk.js",
     "static/js/2.2f28b245.chunk.js.map": "/Capstone-Project/static/js/2.2f28b245.chunk.js.map",
     "index.html": "/Capstone-Project/index.html",
-    "static/css/main.1a598091.chunk.css.map": "/Capstone-Project/static/css/main.1a598091.chunk.css.map",
+    "static/css/main.9a78209d.chunk.css.map": "/Capstone-Project/static/css/main.9a78209d.chunk.css.map",
     "static/js/2.2f28b245.chunk.js.LICENSE.txt": "/Capstone-Project/static/js/2.2f28b245.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Capstone-Project/static/media/warm.6a350ad0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.62203676.js",
     "static/js/2.2f28b245.chunk.js",
-    "static/css/main.1a598091.chunk.css",
+    "static/css/main.9a78209d.chunk.css",
     "static/js/main.550ff12f.chunk.js"
   ]
 }
