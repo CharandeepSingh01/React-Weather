@@ -3,7 +3,7 @@ import './App.css';
 import NavBar from './component/NavBar';
 
 const api={
-  key:"e356fa72d1eddafd60fab8f755efc020",
+  key:"658767b0ae936b022f59a69f44868419",
   url:"https://api.openweathermap.org/data/2.5/"
 }
 
