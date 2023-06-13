@@ -6,7 +6,7 @@ background-image: url("back.jpg");}
 
 .app{
   max-width: 800px;
-  height:100vh;
+  height:125vh;
   min-height: 100vh;
   margin: auto;
   background-image: url('./assets/snow.jpg');
